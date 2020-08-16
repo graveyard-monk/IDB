@@ -1,0 +1,17 @@
+
+<codestructure version="1.9.0">
+<phptree>
+<treenode node="footer.php;PHP:PHP Include;C:\Web\template.php;f18;48;28;48;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i;;l">
+</treenode>
+<treenode node="header-for-template.php;PHP:PHP Include;C:\Web\template.php;f18;21;41;21;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i;;l">
+</treenode>
+<treenode node="info-col.php;PHP:PHP Include;C:\Web\template.php;f18;41;30;41;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i;;l">
+</treenode>
+<treenode node="nav.php;PHP:PHP Include;C:\Web\template.php;f21;29;28;29;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i;;l">
+</treenode>
+</phptree>
+<jstree>
+</jstree>
+<pythontree>
+</pythontree>
+</codestructure>
